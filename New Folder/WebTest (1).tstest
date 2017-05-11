@@ -231,7 +231,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "WebTest (1).resx",
+    "ResourceFilePath": "New Folder\\WebTest (1).resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -263,11 +263,11 @@
     "Description": "",
     "Name": "WebTest (1)",
     "Owner": "",
-    "Path": "WebTest (1).tstest",
+    "Path": "New Folder\\WebTest (1).tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "8efce43f-59df-4fce-9052-d1222f2587d3",
-    "Id": "8efce43f-59df-4fce-9052-d1222f2587d3",
+    "UniqueId": "9266cfb7-a290-4ab8-9ea1-e957b0cd2b85",
+    "Id": "9266cfb7-a290-4ab8-9ea1-e957b0cd2b85",
     "ProjectId": "cfb3a437-19fd-47a9-a580-cb37260e84a4",
     "Version": 200
   }
