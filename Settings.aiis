@@ -178,9 +178,21 @@
     "PromptNameOnAddElement": true,
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
-    "ProjectGuid": "af024eed-6fc4-476a-a661-c4d49463b1d1",
-    "SourceControlRepository": null,
-    "IsOnline": false,
+    "ProjectGuid": "e4756232-f2cf-48ea-afed-6eeb59ee0625",
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/shtilianov/repo555.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/shtilianov/repo555.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
     "ProjectLanguage": 2,
     "ProjectReferences": [
       "System",
@@ -195,8 +207,8 @@
     "ScheduleServerUrl": "http://localhost:8009",
     "IsScheduleServerRemote": false,
     "ProjectVersion": "2017.1.116.0",
-    "Namespace": "TestProject221",
-    "AssemblyName": "TestProject221",
+    "Namespace": "TestProject222",
+    "AssemblyName": "TestProject222",
     "OutputFolder": "bin",
     "ExcludedFiles": [],
     "DisabledTranslators": [],
